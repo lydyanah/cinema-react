@@ -31,6 +31,36 @@ function Busca() {
                         <span className="title">The Matrix</span>
                         <span className="year">1999</span>
                     </li>
+                    <li>
+                        <img className="poster" src="https://infinitaeph.com.br/wp-content/uploads/2018/10/20128877.jpg" alt="" />
+                        <span className="title">The Matrix</span>
+                        <span className="year">1999</span>
+                    </li>
+                    <li>
+                        <img className="poster" src="https://infinitaeph.com.br/wp-content/uploads/2018/10/20128877.jpg" alt="" />
+                        <span className="title">The Matrix</span>
+                        <span className="year">1999</span>
+                    </li>
+                    <li>
+                        <img className="poster" src="https://infinitaeph.com.br/wp-content/uploads/2018/10/20128877.jpg" alt="" />
+                        <span className="title">The Matrix</span>
+                        <span className="year">1999</span>
+                    </li>
+                    <li>
+                        <img className="poster" src="https://infinitaeph.com.br/wp-content/uploads/2018/10/20128877.jpg" alt="" />
+                        <span className="title">The Matrix</span>
+                        <span className="year">1999</span>
+                    </li>
+                    <li>
+                        <img className="poster" src="https://infinitaeph.com.br/wp-content/uploads/2018/10/20128877.jpg" alt="" />
+                        <span className="title">The Matrix</span>
+                        <span className="year">1999</span>
+                    </li>
+                    <li>
+                        <img className="poster" src="https://infinitaeph.com.br/wp-content/uploads/2018/10/20128877.jpg" alt="" />
+                        <span className="title">The Matrix</span>
+                        <span className="year">1999</span>
+                    </li>
                 </ul>
 	        </main>    
         </div>
